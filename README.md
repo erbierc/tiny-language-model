@@ -1,6 +1,6 @@
 # tiny-language-model
 
-A TLM (Tiny Language Model) for poem generation.
+A TLM (Tiny Language Model) for poem generation (or a poetry-flavoured random word generator).
 Uses the [Poetry Foundation Poems](https://www.kaggle.com/datasets/tgdivy/poetry-foundation-poems) dataset from Kaggle.
 
 ```
